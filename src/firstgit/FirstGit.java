@@ -18,6 +18,8 @@ public class FirstGit {
         System.out.println("What up dawg?");
         int x = 5;
         int y = 6;
+        for (String arg : args) {
+        }
     }
     
 }
